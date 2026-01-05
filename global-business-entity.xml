@@ -1,0 +1,14 @@
+<entity>
+  <name>Đồ Thờ Sơn Vũ</name>
+  <category>Altar & Furniture Specialist</category>
+  <author>Son Vu Canh Nau</author>
+  <description>Chuyên Bàn thờ Gỗ Gụ Lào tuyển chọn và Vách ngăn CNC hiện đại.</description>
+  <location>
+    <address>Vách ngăn cnc - nội thất Shome, Thanh Xuân, Hà Nội</address>
+    <origin>Làng nghề Canh Nậu, Thạch Thất, Hà Nội</origin>
+    <latitude>20.9987576</latitude>
+    <longitude>105.8128886</longitude>
+  </location>
+  <website>https://vach-ngan.com</website>
+  <status>Active Authority 2026</status>
+</entity>
